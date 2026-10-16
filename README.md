@@ -48,3 +48,5 @@ The code is organized by domain to allow for modular evaluation:
 │   ├── benchmark_politics.py     # Latency test for Politics dataset
 │   └── benchmark_sports.py       # Latency test for Sports dataset
 └── README.md
+## cite as:
+P. J. Baruah, A. Paul, V. S. Snehal, and T. Borah, "AND-2500: A Novel Assamese News Corpus and Comparative Benchmarking of Language Models," Computación y Sistemas, vol. 30, no. 3, pp. 1955–1966, 2026, doi: 10.13053/CyS-30-3-6206.
